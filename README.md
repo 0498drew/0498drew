@@ -1,6 +1,4 @@
-### Hi there 👋 am Andrew mwase.
-
-Here are some ideas to get you started:
+### Hi there 👋 am Andrew mwase
 
 - 🔭 I’m currently a computer engineering and software student 
 - 🌱 I’m currently learning C, Javascript and Python ...
